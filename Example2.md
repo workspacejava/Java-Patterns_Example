@@ -49,7 +49,7 @@ class example
 > OUTPUT
 
 ```SHELL
-        *
+           *
          * *
        * * *
      * * * *
